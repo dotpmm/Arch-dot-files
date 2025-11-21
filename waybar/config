@@ -56,7 +56,7 @@
         "format": "MEM",
         "tooltip": true,
         "tooltip-format": "Memory: {percentage}% used",
-        "on-click": "kitty -e htop" 
+        "on-click": "kitty -e btop" 
     },
 
     "battery": {
